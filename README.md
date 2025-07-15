@@ -26,5 +26,6 @@ and instability in individuals with DFD or other neurological abnormalities in t
 compare it with gait lab if possible.
 9. Analyze the results of the clinical trial and make any necessary adjustments to the
 system's design and functionality.
-10. Submit a technical report and video.
+
+
 By completing these steps, the undergraduate locomotion and gait analysis course project will produce a reliable and accurate system for monitoring the foot plantar pressure and gait of individuals with DFD or any other neurological abnormality in the gait. The system's portability, wireless capability, and ease of use will make it accessible to patients, and its accuracy and reliability will help clinicians identify areas ofabnormal pressure and instability accurately
